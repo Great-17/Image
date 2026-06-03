@@ -24,7 +24,7 @@ Generate stunning images from text prompts using the Stable Diffusion v1.5 model
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/stable-diffusion-image-gen.git
+git clone https://github.com/Great-17/Image.git
 cd stable-diffusion-image-gen
 ```
 
